@@ -1,1 +1,1 @@
-# CSE597
+# CSE597-Course Project
